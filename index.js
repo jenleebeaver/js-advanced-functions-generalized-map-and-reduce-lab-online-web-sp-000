@@ -7,3 +7,7 @@ function map(src, cb){
   }
   return r;
 }
+
+function reduce(src, cb, starting){
+  
+}
